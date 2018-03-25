@@ -1,4 +1,4 @@
-# NORX Parallel and Scalable Authenticated Encryption
+# NORX – Parallel and Scalable Authenticated Encryption
 
 NORX is a parallel and scalable authenticated encryption algorithm and a third-round candidate in the [CAESAR](http://competitions.cr.yp.to/caesar.html) competition.
 
@@ -43,21 +43,32 @@ Furthermore, there is a number of community implementations in different languag
 
 # Publications
 
-- Nov 2017: [Under Pressure: Security of Caesar Candidates beyond their Guarantees](https://eprint.iacr.org/2017/1147); Serge Vaudenay, Damian Vizar; IACR ePrint archive report 2017/1147 
-- Nov 2017: [Pipeline Oriented Implementation of NORX for ARM Processors](https://sbseg2017.redes.unb.br/wp-content/uploads/2017/04/20171109_ANAIS_SBSEG_2017_FINAL_E-BOOK.pdf#ANAIS_SBSEG_2017.indd%3A.29325%3A1298); Luan Cardoso dos Santos, Julio López; SBSeg 2017 
-- May 2017: [Full-State Keyed Duplex With Built-In Multi-User Support](https://eprint.iacr.org/2017/498); Joan Daemen, Bart Mennink, Gilles Van Assche; Asiacrypt 2017 
-- Mar 2017: [Cryptanalysis of NORX 2.0](http://tosc.iacr.org/index.php/ToSC/article/view/589); Colin Chaigneau, Thomas Fuhr, Henri Gilbert, Jérémy Jean, Jean-René Reinhard; Fast Software Encryption 2017 
-- Jan 2017: [Analysis of the NORX Core Permutation](https://eprint.iacr.org/2017/034); Alex Biryukov, Aleksei Udovenko, Vesselin Velichkov; IACR ePrint archive report 2017/034 
-- Dec 2016: [On Linear Properties of G Function in NORX](http://www.jcr.cacrnet.org.cn:8080/mmxb/EN/abstract/abstract179.shtml); Wen Cheng, Jie Guan; Journal of Cryptologic Research 
-- Nov 2016: [SAT-based Cryptanalysis of Authenticated Ciphers from the CAESAR Competition](https://eprint.iacr.org/2016/1053); Ashutosh Dhar Dwivedi, Milos Kloucek, Pawel Morawiecki, Ivica Nikolic, Josef Pieprzyk, Sebastian Wojtowicz; IACR ePrint archive report 2016/1053 
-- Mar 2016: [Cryptanalysis of Reduced NORX](https://eprint.iacr.org/2016/436); Nasour Bagheri, Tao Huang, Keting Jia, Florian Mendel, Yu Sasaki; Fast Software Encryption 2016
-- Mar 2015: [NORX8 and NORX16: Authenticated Encryption for Low-End Systems](https://eprint.iacr.org/2015/1154); Jean-Philippe Aumasson, Philipp Jovanovic, Samuel Neves; TRUDEVICE workshop 2015
-- Mar 2015: [Higher Order Differential Analysis of NORX](https://eprint.iacr.org/2015/186); Sourav Das, Subhamoy Maitra, Willi Meier; IACR ePrint archive report 2015/186 
-- Dec 2014: [Beyond 2^{c/2} Security in Sponge-Based Authenticated Encryption Modes](https://eprint.iacr.org/2014/373); Philipp Jovanovic, Atul Luykx, Bart Mennink; ASIACRYPT 2014
-- Sep 2014: [Analysis of NORX: Investigating Differential and Rotational Properties](https://eprint.iacr.org/2014/317); Jean-Philippe Aumasson, Philipp Jovanovic, Samuel Neves; Latincrypt 2014
-- Sep 2014: [NORX: Parallel and Scalable AEAD](http://link.springer.com/chapter/10.1007/978-3-319-11212-1_2); Jean-Philippe Aumasson, Philipp Jovanovic, Samuel Neves; ESORICS 2014
+### 2017
+
+- [Under Pressure: Security of Caesar Candidates beyond their Guarantees](https://eprint.iacr.org/2017/1147); Serge Vaudenay, Damian Vizar; IACR ePrint archive report 2017/1147 
+- [Pipeline Oriented Implementation of NORX for ARM Processors](https://sbseg2017.redes.unb.br/wp-content/uploads/2017/04/20171109_ANAIS_SBSEG_2017_FINAL_E-BOOK.pdf#ANAIS_SBSEG_2017.indd%3A.29325%3A1298); Luan Cardoso dos Santos, Julio López; SBSeg 2017 
+- [Full-State Keyed Duplex With Built-In Multi-User Support](https://eprint.iacr.org/2017/498); Joan Daemen, Bart Mennink, Gilles Van Assche; Asiacrypt 2017 
+- [Cryptanalysis of NORX 2.0](http://tosc.iacr.org/index.php/ToSC/article/view/589); Colin Chaigneau, Thomas Fuhr, Henri Gilbert, Jérémy Jean, Jean-René Reinhard; Fast Software Encryption 2017 
+- [Analysis of the NORX Core Permutation](https://eprint.iacr.org/2017/034); Alex Biryukov, Aleksei Udovenko, Vesselin Velichkov; IACR ePrint archive report 2017/034 
+
+### 2016
+
+- [On Linear Properties of G Function in NORX](http://www.jcr.cacrnet.org.cn:8080/mmxb/EN/abstract/abstract179.shtml); Wen Cheng, Jie Guan; Journal of Cryptologic Research 
+- [SAT-based Cryptanalysis of Authenticated Ciphers from the CAESAR Competition](https://eprint.iacr.org/2016/1053); Ashutosh Dhar Dwivedi, Milos Kloucek, Pawel Morawiecki, Ivica Nikolic, Josef Pieprzyk, Sebastian Wojtowicz; IACR ePrint archive report 2016/1053 
+- [Cryptanalysis of Reduced NORX](https://eprint.iacr.org/2016/436); Nasour Bagheri, Tao Huang, Keting Jia, Florian Mendel, Yu Sasaki; Fast Software Encryption 2016
+
+### 2015
+
+- [NORX8 and NORX16: Authenticated Encryption for Low-End Systems](https://eprint.iacr.org/2015/1154); Jean-Philippe Aumasson, Philipp Jovanovic, Samuel Neves; TRUDEVICE workshop 2015
+- [Higher Order Differential Analysis of NORX](https://eprint.iacr.org/2015/186); Sourav Das, Subhamoy Maitra, Willi Meier; IACR ePrint archive report 2015/186 
+
+### 2014
+
+- [Beyond 2^{c/2} Security in Sponge-Based Authenticated Encryption Modes](https://eprint.iacr.org/2014/373); Philipp Jovanovic, Atul Luykx, Bart Mennink; ASIACRYPT 2014
+- [Analysis of NORX: Investigating Differential and Rotational Properties](https://eprint.iacr.org/2014/317); Jean-Philippe Aumasson, Philipp Jovanovic, Samuel Neves; Latincrypt 2014
+- [NORX: Parallel and Scalable AEAD](http://link.springer.com/chapter/10.1007/978-3-319-11212-1_2); Jean-Philippe Aumasson, Philipp Jovanovic, Samuel Neves; ESORICS 2014
 
 # Misc
 
-Jun 2015: [Benchmarking Modern Authenticated Encryption on 1€ Devices](http://jbp.io/2015/06/01/modern-authenticated-encryption-for-1-euro/) by Joseph Birr-Pixton; NORX among fastest ciphers on small processors. Benchmarked using the [cifra](https://github.com/ctz/cifra) platform.
+- [Benchmarking Modern Authenticated Encryption on 1€ Devices](http://jbp.io/2015/06/01/modern-authenticated-encryption-for-1-euro/) by Joseph Birr-Pixton; NORX among fastest ciphers on small processors. Benchmarked using the [cifra](https://github.com/ctz/cifra) platform.
 
