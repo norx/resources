@@ -1,12 +1,12 @@
-# Collection of Resources on the NORX AEAD Cipher
+# NORX Parallel and Scalable Authenticated Encryption
 
 NORX is a parallel and scalable authenticated encryption algorithm and a third-round candidate in the [CAESAR](http://competitions.cr.yp.to/caesar.html) competition.
 
 NORX was designed by:
 
-- [Jean-Philippe Aumasson](https://aumasson.jp/)
-- [Philipp Jovanovic](https://zerobyte.io/)
-- [Samuel Neves](http://eden.dei.uc.pt/~sneves/)
+- [Jean-Philippe Aumasson](https://aumasson.jp/) ([@veorq](https://twitter.com/veorq))
+- [Philipp Jovanovic](https://zerobyte.io/) ([@daeinar](https://twitter.com/daeinar))
+- [Samuel Neves](http://eden.dei.uc.pt/~sneves/) ([@sevenps](https://twitter.com/sevenps))
 
 NORX is not patented and freely available for all applications. All content on NORX such as its specification and source code is available under the [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -14,19 +14,19 @@ NORX is not patented and freely available for all applications. All content on N
 
 The following versions of the NORX specification are available:
 
-- [NORX v3.0]()
-- [NORX v2.0]()
-- [NORX v1.1]()
-- [NORX v1.0]()
+- [NORX v3.0](https://github.com/norx/resources/blob/master/specs/norxv30.pdf)
+- [NORX v2.0](https://github.com/norx/resources/blob/master/specs/norxv20.pdf)
+- [NORX v1.1](https://github.com/norx/resources/blob/master/specs/norxv11.pdf)
+- [NORX v1.0](https://github.com/norx/resources/blob/master/specs/norxv10.pdf)
 
 # Implementations
 
-The following reference implementations are available:
+The following NORX reference implementations are available:
 
-- [NORX software]() (C)
-- [NORX hardware]() (VHDL)
+- [NORX software](https://github.com/norx/norx) (C)
+- [NORX hardware](https://github.com/norx/norx-hw) (VHDL)
 
-Furthermore, the following community implementations are available:
+Furthermore, there is a number of community implementations in different languages:
 
 - 2017-06-11: [plc](https://github.com/philanc/plc) (Lua); Philippe Leblanc
 - 2016-05-23: [norx-cryptol](https://github.com/ttaubert/norx-cryptol) (Cryptol); Tim Taubert ([@ttaubert](https://twitter.com/ttaubert))
