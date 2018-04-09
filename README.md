@@ -28,6 +28,7 @@ The following NORX reference implementations are available:
 
 Furthermore, there is a number of community implementations in different languages:
 
+- 2018-01-14: [rust-norx](https://github.com/quininer/norx) (Rust); quininer
 - 2017-06-11: [plc](https://github.com/philanc/plc) (Lua); Philippe Leblanc
 - 2016-05-23: [norx-cryptol](https://github.com/ttaubert/norx-cryptol) (Cryptol); Tim Taubert ([@ttaubert](https://twitter.com/ttaubert))
 - 2016-05-11: [spark_norx](https://github.com/jhumphry/SPARK_NORX) (Ada/Spark); James Humphry
@@ -42,6 +43,10 @@ Furthermore, there is a number of community implementations in different languag
 - 2014-03-19: [norxpy](https://github.com/therealmik/norxpy) (Python/Numpy); Michael Samuel ([@mik235](https://twitter.com/mik235))
 
 # Publications
+
+### 2018
+
+- [Distinguishing Attack on NORX Permutation](https://tosc.iacr.org/index.php/ToSC/article/view/844); Tao Huang, Hongjun Wu; Fast Software Encryption 2018
 
 ### 2017
 
